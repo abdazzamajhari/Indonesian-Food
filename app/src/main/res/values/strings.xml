@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IndonesianFood</string>
+
+    <string-array name="food_name">
+        <item>Nasi Padang</item>
+        <item>Nasi Uduk</item>
+        <item>Gudeg</item>
+        <item>Gado-gado</item>
+        <item>Soto</item>
+        <item>Rawon</item>
+    </string-array>
+
+    <array name="food_image">
+        <item>@drawable/img_nasdang</item>
+        <item>@drawable/img_nasduk</item>
+        <item>@drawable/img_gudeg</item>
+        <item>@drawable/img_gado2</item>
+        <item>@drawable/img_soto</item>
+        <item>@drawable/img_rawon</item>
+    </array>
+
+    <string-array name="food_description">
+        <item>Nasi Padang is a Padang steamed rice served with various choices of pre-cooked dishes originated from Indonesia. It is known across Indonesia as Nasi Padang, after the city of Padang the capital of West Sumatra province. Nasi Padang (Padang-style rice) is a miniature banquet of meats, fish, vegetables, and spicy sambals eaten with plain white rice, it is Sumatra's most famous export and the Minangkabau people's great contribution to Indonesian cuisine.</item>
+        <item>Nasi uduk is an Indonesian Betawi style steamed rice cooked in coconut milk dish originally from Jakarta that can be widely found across the country. Nasi uduk is made by cooking rice soaked in coconut milk instead of water, along with clove, cassia bark, and lemongrass to add aroma. Sometimes knotted pandan leaves are thrown into the rice while steaming to give it more fragrance. The coconut milk and spices imparts an oily, rich taste to the rice. Bawang goreng (fried shallots) is sprinkled on top of the rice before serving. Other dishes are usually served as side dishes. Pre-packed nasi uduk are commonly wrapped in a cone-shaped banana leaf.</item>
+        <item>Gudeg is a traditional Javanese cuisine from Yogyakarta and Central Java, Indonesia. Gudeg is made from young unripe jack fruit (Javanese: gori, Indonesian: nangka muda) stewed for several hours with palm sugar, and coconut milk. Additional spices include garlic, shallot, candlenut, coriander seed, galangal, bay leaves, and teak leaves, the latter giving a reddish-brown color to the dish. It is often described as "green jack fruit sweet stew".</item>
+        <item>Gado-gado (Indonesian or Betawi), also known as lotek (Sundanese and Javanese), is an Indonesian salad of slightly boiled, blanched or steamed vegetables and hard-boiled eggs, boiled potato, fried tofu and tempeh, and lontong (rice wrapped in a banana leaf), served with a peanut sauce dressing. In 2018, gado-gado is promoted as one of 5 national dishes of Indonesia.</item>
+        <item>Soto (also known as sroto, tauto, or coto) is a traditional Indonesian soup mainly composed of broth, meat, and vegetables. Many traditional soups are called soto, whereas foreign and Western influenced soups are called sop. Soto is sometimes considered Indonesia's national dish, as it is served from Sumatra to Papua, in a wide range of variations. Soto is omnipresent in Indonesia, available in many warungs and open-air eateries on many street corners, to fine dining restaurants and luxurious hotels. Soto, especially soto ayam (chicken soto), is an Indonesian equivalent of chicken soup. Because it is always served warm with a tender texture, it is considered an Indonesian comfort food. Because of the proximity and significant numbers of Indonesian migrants working and settling in neighbouring countries, soto can also be found in Singapore and Malaysia, and has become a part of their cuisin. Introduced to Suriname by Javanese migrants, it is part of the national cuisine of that country as well, where it is spelled saoto.</item>
+        <item>Rawon or Nasi Rawon/Rawon Rice (when served with rice) is a strong rich tasting traditional Indonesian beef black soup. Originally from Surabaya in Indonesian province of East Java. It uses black nuts/keluak (Pangeum edule, fruits of kepayang tree) as the main seasoning which gives the strong nutty flavor and dark color to the soup. The soup is made of ground mixture of garlic, shallot, keluak, ginger, candlenut, turmeric, red chili and salt sauteed with oil until it gets aromatic. The sauteed mixture is then poured into boiled beef stock with diced beef. Lemongrass, galangal, bay leaves, kaffir lime leaves and sugar are then added as seasonings. The special dark or black color of rawon comes from the keluak as the main spice. The soup is usually garnished with green onion and fried shallot, and served with rice, hence the name rawon rice or Nasi Rawon in Indonesian language, together with baby bean sprouts, salted preserved egg, shrimp crackers and sambal chili sauce on the side.</item>
+    </string-array>
+</resources>
