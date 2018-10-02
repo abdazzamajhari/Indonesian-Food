@@ -1,3 +1,3 @@
 Indonesian Food
 
-Clone Dicoding Submission 1
+Clone Dicoding Kotlin Android Developer Expert Submission 1
